@@ -1,5 +1,14 @@
 # Hi, I'm Tarun 👋
 
+
+AI-Native Data Engineer building production-style data systems across streaming, RAG, analytics engineering, and data observability.
+
+Currently focused on:
+- Real-time Kafka pipelines
+- dbt analytics marts
+- AI-assisted data quality observability
+- Financial document RAG systems
+- LLM evaluation and classification workflows
 **Data Engineer and AI Data Engineer** based in Dallas, TX
 
 I build production-grade data systems where AI meets data engineering. My work spans real-time streaming pipelines, RAG systems, agent-orchestrated observability, analytics engineering, and cloud data platforms on AWS.
