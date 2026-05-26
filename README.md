@@ -59,9 +59,9 @@ Production analytics engineering pipeline with dbt Core, star schema dimensional
 ---
 
 ### AI Transaction Classifier
-LLM-powered transaction classification system with a structured evaluation framework comparing Claude API against a rule-based baseline. Includes confidence scoring and cost-aware inference.
+LLM-powered benchmarking system comparing Claude API against a rule-based baseline on 2,000 financial transactions. LLM achieved 95.3% accuracy vs 58.7% baseline with structured evaluation framework covering per-category precision, recall, F1, confidence scoring, and cost analysis at $0.0003 per transaction.
 
-**Stack:** Python, Claude API, pandas, evaluation framework
+**Stack:** Python, Claude API, pandas, scikit-learn, evaluation framework
 
 [View Project](https://github.com/Tarun-B-12/transaction-classifier-ai)
 
