@@ -1,4 +1,4 @@
-# Hi, I'm Tarun 👋
+# Hi, I'm B 👋
 
 **Data Engineer and AI Data Engineer** based in Dallas, TX
 
@@ -102,10 +102,10 @@ Banking and Financial Services, Retail and eCommerce, Healthcare, Insurance, HR 
 
 ## Connect
 
-Email: buildwithtarun@gmail.com
+##Email: buildwithtarun@gmail.com
 
-LinkedIn: [linkedin.com/in/tarun-b-k](https://linkedin.com/in/tarun-b-k)
+##LinkedIn: [linkedin.com/in/tarun-b-k](https://linkedin.com/in/tarun-b-k)
 
-Location: Dallas, TX
+##Location: Dallas, TX
 
-Open to: Data Engineer, AI Data Engineer, Analytics Engineer, Senior Data Engineer roles
+##Open to: Data Engineer, AI Data Engineer, Analytics Engineer, Senior Data Engineer roles
