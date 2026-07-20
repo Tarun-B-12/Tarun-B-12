@@ -100,12 +100,3 @@ Banking and Financial Services, Retail and eCommerce, Healthcare, Insurance, HR 
 
 ---
 
-## Connect
-
-##Email: buildwithtarun@gmail.com
-
-##LinkedIn: [linkedin.com/in/tarun-b-k](https://linkedin.com/in/tarun-b-k)
-
-##Location: Dallas, TX
-
-##Open to: Data Engineer, AI Data Engineer, Analytics Engineer, Senior Data Engineer roles
